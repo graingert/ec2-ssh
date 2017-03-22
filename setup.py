@@ -58,7 +58,7 @@ setup(
     description = "SSH into EC2 instances via tag name",
     long_description = __doc__,
     license = "MIT",
-    url = "https://github.com/Instagram/ec2-ssh",
+    url = "https://github.com/facebookarchive/ec2-ssh",
     keywords = ["amazon", "aws", "ec2", "ami", "ssh", "cloud", "boto"],
     install_requires = ['boto>=1.0'],
     scripts = ["bin/ec2-host", "bin/ec2-ssh"],
